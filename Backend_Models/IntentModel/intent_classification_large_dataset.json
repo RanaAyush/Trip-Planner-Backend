@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "Want to take a short trip from Hyderabad to Bangalore this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Mumbai in January?",
+    "label": "general_query"
+  },
+  {
+    "text": "Are there any travel restrictions to Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Manali to Chennai starting 26 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Mumbai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 5 persons from Jaipur to Goa from 16 June to 15 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Kolkata for 3 people starting from 25 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 4 persons from Goa to Delhi from 01 June to 20 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Bangalore to Manali between 16 June and 26 June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Goa for 4 people starting from 27 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 4 persons from Mumbai to Jaipur from 27 May to 20 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Goa to Manali in June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Jaipur in June?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Bangalore now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 1 people from Jaipur to Kolkata with a \u20b920000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Chennai for 4 people starting from 22 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Jaipur to Pune between 06 June and 16 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want a trip from Goa to Mumbai with a budget of \u20b915000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 4 people to Pune from Bangalore on 04 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 3 persons from Goa to Chennai from 29 May to 04 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 1 people from Kolkata to Mumbai with a \u20b925000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 4 people from Kolkata to Delhi with a \u20b920000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Hyderabad to Jaipur between 06 June and 19 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Manali in February?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Kolkata to Mumbai this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 4 people from Bangalore to Mumbai with a \u20b915000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 6 persons from Bangalore to Chennai from 15 June to 11 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 3 people from Jaipur to Goa with a \u20b910000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Goa for 5 people starting from 18 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want a trip from Chennai to Mumbai with a budget of \u20b920000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Jaipur now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Goa now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Delhi to Mumbai starting 22 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Delhi now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Manali to Kolkata between 25 May and 06 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 2 persons from Delhi to Chennai from 28 May to 05 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Jaipur for 6 people starting from 25 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 2 people to Chennai from Manali on 04 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 1 persons from Bangalore to Pune from 10 June to 12 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 6 people to Pune from Hyderabad on 13 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Delhi to Bangalore this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Hyderabad in February?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want to go from Bangalore to Delhi on 16 April for 5 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want a trip from Chennai to Manali with a budget of \u20b930000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Jaipur to Delhi between 30 May and 24 June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Do you recommend visiting Goa in October?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 6 people from Mumbai to Hyderabad with a \u20b95000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Chennai to Manali starting 29 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Goa to Hyderabad starting 24 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Mumbai to Jaipur starting 05 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Kolkata in August?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Hyderabad now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 5 persons from Manali to Goa from 14 June to 25 June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Kolkata now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 3 persons from Chennai to Hyderabad from 19 June to 13 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 6 people to Bangalore from Goa on 09 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Jaipur for 2 people starting from 17 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in April in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 5 people to Goa from Jaipur on 24 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 1 persons from Manali to Chennai from 06 June to 22 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 3 persons from Pune to Kolkata from 11 June to 22 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Delhi for 5 people starting from 27 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 5 people to Bangalore from Hyderabad on 10 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want to go from Delhi to Hyderabad on 02 February for 2 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Jaipur to Kolkata starting 24 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Want to take a short trip from Chennai to Hyderabad this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 1 persons from Manali to Delhi from 23 June to 11 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Mumbai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Goa to Hyderabad this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Pune to Chennai between 09 June and 14 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Bangalore to Goa between 13 June and 26 June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Mumbai to Bangalore in April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 6 people from Pune to Jaipur with a \u20b920000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want to go from Delhi to Bangalore on 16 May for 4 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 1 people from Delhi to Manali with a \u20b910000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in May in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Delhi to Kolkata with a budget of \u20b910000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Goa to Bangalore with a budget of \u20b920000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 2 people to Chennai from Goa on 13 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Jaipur to Pune with a budget of \u20b920000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 5 people to Hyderabad from Mumbai on 06 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 6 people to Jaipur from Manali on 27 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Are there any travel restrictions to Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Manali to Pune this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want to go from Bangalore to Pune on 28 February for 2 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a honeymoon trip from Jaipur to Bangalore in February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a honeymoon trip from Manali to Pune in October.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Kolkata to Manali with a budget of \u20b95000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want to go from Pune to Hyderabad on 26 February for 6 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in November in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Mumbai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Pune to Bangalore in May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Chennai for 4 people starting from 13 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Manali in September?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Pune to Hyderabad starting 14 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Pune to Delhi with a budget of \u20b930000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Pune to Kolkata between 19 June and 15 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Kolkata for 2 people starting from 19 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Goa to Pune between 11 June and 19 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Chennai to Kolkata starting 09 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Jaipur to Chennai between 02 June and 18 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 3 people from Kolkata to Hyderabad with a \u20b930000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 2 people from Manali to Chennai with a \u20b930000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in March in Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Manali now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 1 people to Jaipur from Pune on 20 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Delhi in December?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 6 people from Manali to Chennai with a \u20b925000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Jaipur now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Do you recommend visiting Manali in October?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Bangalore to Mumbai with a budget of \u20b910000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Manali for 1 people starting from 06 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Pune in July?",
+    "label": "general_query"
+  },
+  {
+    "text": "Do you recommend visiting Mumbai in June?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Manali for 1 people starting from 20 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Jaipur to Bangalore with a budget of \u20b930000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Hyderabad now?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 6 people from Kolkata to Hyderabad with a \u20b930000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want a trip from Bangalore to Mumbai with a budget of \u20b95000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want to go from Manali to Mumbai on 17 March for 3 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Goa to Mumbai between 30 May and 15 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Pune in September?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Delhi to Goa with a budget of \u20b920000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in October in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Chennai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Pune now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 2 persons from Chennai to Manali from 15 June to 22 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Book a trip for 1 persons from Hyderabad to Delhi from 31 May to 18 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 4 people from Mumbai to Jaipur with a \u20b925000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Kolkata now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 1 people from Bangalore to Goa with a \u20b910000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Kolkata now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Chennai to Delhi this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 2 persons from Kolkata to Mumbai from 23 June to 14 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Jaipur to Mumbai between 13 June and 01 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Bangalore to Manali starting 22 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want to go from Kolkata to Delhi on 16 March for 1 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 3 people to Pune from Kolkata on 26 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Hyderabad now?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Do you recommend visiting Chennai in September?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Goa now?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 5 people to Mumbai from Goa on 28 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Want to take a short trip from Pune to Manali this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Pune to Goa starting 30 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Goa now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will it rain in October in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Pune to Chennai in February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Want to take a short trip from Chennai to Manali this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will it rain in December in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Are there any travel restrictions to Bangalore?",
+    "label": "general_query"
+  },
+  {
+    "text": "What are some good places to visit in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Are there any travel restrictions to Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Are there any travel restrictions to Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 1 people to Bangalore from Kolkata on 01 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want to go from Chennai to Hyderabad on 14 February for 3 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Delhi to Chennai starting 02 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Delhi to Bangalore between 22 June and 08 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Bangalore to Mumbai starting 06 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Kolkata to Chennai starting 18 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Pune to Kolkata starting 25 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 3 people to Manali from Delhi on 17 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Goa now?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want a trip from Mumbai to Bangalore with a budget of \u20b930000.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will it rain in May in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Delhi to Kolkata in June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Do you recommend visiting Bangalore in May?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Chennai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Kolkata for 5 people starting from 08 March.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Manali to Bangalore starting 07 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Hyderabad to Mumbai starting 12 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Manali now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Delhi for 2 people starting from 17 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Kolkata to Chennai starting 15 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 1 people to Hyderabad from Mumbai on 23 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 5 people to Goa from Mumbai on 28 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Hyderabad for 5 people starting from 23 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Manali for 2 people starting from 06 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Mumbai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Will I get hotels in Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "Looking to travel from Chennai to Mumbai between 12 June and 03 July.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Chennai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Bangalore to Hyderabad in January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Bangalore now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Book a trip for 4 persons from Chennai to Kolkata from 25 May to 27 June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in September in Hyderabad?",
+    "label": "general_query"
+  },
+  {
+    "text": "Is it safe to travel to Goa now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 2 people to Pune from Bangalore on 27 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Want to take a short trip from Pune to Kolkata this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "What are some good places to visit in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Need a tour for 3 people from Delhi to Pune with a \u20b925000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "I want to go from Pune to Hyderabad on 15 January for 2 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Delhi?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can you suggest some family-friendly destinations?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a honeymoon trip from Pune to Kolkata in November.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a honeymoon trip from Goa to Hyderabad in June.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Vacation for 4 people to Pune from Jaipur on 18 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Hyderabad for 6 people starting from 17 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Is it safe to travel to Chennai now?",
+    "label": "general_query"
+  },
+  {
+    "text": "Can I travel with pets?",
+    "label": "general_query"
+  },
+  {
+    "text": "Do you recommend visiting Mumbai in March?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Kolkata?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Manali?",
+    "label": "general_query"
+  },
+  {
+    "text": "Want to take a short trip from Bangalore to Kolkata this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Plan a vacation from Mumbai to Kolkata starting 02 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 1 people from Chennai to Bangalore with a \u20b910000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Schedule a trip to Mumbai for 1 people starting from 04 February.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Are there any travel restrictions to Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "How many days should I spend in Goa?",
+    "label": "general_query"
+  },
+  {
+    "text": "Schedule a trip to Delhi for 2 people starting from 28 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "How many days should I spend in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "What\u2019s the max budget for 4 days in Jaipur?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Bangalore to Pune starting 19 January.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in January in Pune?",
+    "label": "general_query"
+  },
+  {
+    "text": "Vacation for 1 people to Kolkata from Chennai on 18 May.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will I get hotels in Mumbai?",
+    "label": "general_query"
+  },
+  {
+    "text": "I want to go from Pune to Kolkata on 17 March for 5 people.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Want to take a short trip from Mumbai to Pune this weekend.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Need a tour for 3 people from Kolkata to Goa with a \u20b915000 budget.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Will it rain in December in Chennai?",
+    "label": "general_query"
+  },
+  {
+    "text": "Plan a vacation from Pune to Chennai starting 09 April.",
+    "label": "trip_info"
+  },
+  {
+    "text": "Looking to travel from Hyderabad to Pune between 21 June and 07 July.",
+    "label": "trip_info"
+  }
+]
